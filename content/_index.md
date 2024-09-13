@@ -19,7 +19,7 @@ Pequeno glossário de mulheres que contribuíram de forma relevante para a evolu
 
 Garimpei no _site_ da Wikipedia ([_link_](https://en.wikipedia.org/wiki/Timeline_of_women_in_science); acesso em 26 de junho de 2024, às 18h) os principais nomes que me chamaram atenção. Escolhi aquelas cujos trabalhos me inspiraram possibilidades de como poderiam ser incorporadas em aulas para diferentes disciplinas a depender do tópico abordado. Contudo, fica a cargo de cada profissional como inseri-las.
 
-A fim de tentar fazer um pequeno glossário abrangente e útil para diferentes tipos de buscas e leitores, os capítulos separam as mulheres por **linha temporal**, com uma seleção mais abrangente de nomes; e por **disciplinas**, em que eu sugiro nomes para serem citados.
+A fim de tentar fazer um pequeno glossário abrangente e útil para diferentes tipos de buscas e leitores, os capítulos separam as mulheres por [**linha temporal**](https://michele-bc.github.io/mulheres-astroefisica/docs/temporal/), com uma seleção mais abrangente de nomes; e por [**disciplinas**](https://michele-bc.github.io/mulheres-astroefisica/docs/disciplina/), em que eu sugiro nomes para serem citados.
 
 Ressalto que não sou historiadora e não tenho a habilidade de fazer um resgate de mulheres que tiveram seus trabalhos roubados, ou levados, por quaisquer motivos, a serem assinados por homens. Fiz uma busca simples, com material facilmente acessível na _internet_, de mulheres cuja contribuição já é sabida, mas não divulgada amplamente. Além disso, busquei compilar informações básicas e úteis para alcançar uma leitura convidativa e rápida, cometendo o erro de não fazer jus à grandiosidade das vidas e dos trabalhos dessas mulheres.
 
