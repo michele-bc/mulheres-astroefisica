@@ -2,7 +2,7 @@
 title: Fundamentos de Astronomia e Astrofísica
 type: docs
 prev: /
-next: docs/folder/
+next: docs/disciplina/
 ---
 
 <div align="justify">
