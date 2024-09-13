@@ -12,3 +12,13 @@ Principalmente em aulas de física e astronomia, apenas nomes de homens são cit
 A falta de referenciamento de mulheres e creditação de sua produção científica está para além do escopo deste glossário. No entanto, se faz cada-segundo-mais urgente a necessidade de quebrar este ciclo que se perpetua. Pensando nisso, aqui estão reunidos nomes de algumas das pensadoras que tiveram relevantes contribuições para a física e a astronomia como sugestão para que sejam introduzidas em aulas e materiais didáticos dessas áreas.
 
 </div>
+
+
+
+<div align="left">
+
+Michele Bertoldo Coêlho
+
+michele.nhg@gmail.com
+
+</div>
