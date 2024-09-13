@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-Mulheres separadas por disciplinas.
+Mulheres organizadas por disciplina.
