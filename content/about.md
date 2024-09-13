@@ -3,28 +3,12 @@ title: Sobre
 type: about
 ---
 
-<div align="center">
-
-Pequeno glossário de mulheres que contribuíram de forma relevante para a evolução da ciência, especialmente nas áreas de física e astronomia, possíveis de serem citadas em sala de aula.
-
-</div>
-
 <div align="justify">
 
-Garimpei no _site_ da Wikipedia ([_link_](https://en.wikipedia.org/wiki/Timeline_of_women_in_science); acesso em 26 de junho de 2024, às 18h) os principais nomes que me chamaram atenção. Escolhi aquelas cujos trabalhos me inspiraram possibilidades de como poderiam ser incorporadas em aulas para diferentes disciplinas a depender do tópico abordado. Contudo, fica a cargo de cada profissional como inseri-las.
+Estima-se que os primeiros livros foram criados por volta de 3200 AEC na Mesopotâmia. Considerando que se passaram cerca de 5200 anos de uma comunicação transponível e perdurável de saberes semelhante à que utilizamos na ciência, é um despautério acreditar que só recentemente as mulheres estejam fazendo parte de forma relevante desta construção de conhecimento.
 
-A fim de tentar fazer um pequeno glossário abrangente e útil para diferentes tipos de buscas e leitores, os capítulos separam as mulheres por **linha temporal**, com uma seleção mais abrangente de nomes; e por **disciplinas**, em que eu sugiro nomes para serem citados.
+Principalmente em aulas de física e astronomia, apenas nomes de homens são citados. Será que é por falta de mulheres nesses campos? Evidentemente, por constrições sociais, a participação delas foi limitada. Mas sabemos que não era nula (cerca de 14% dos astrônomos no começo do século XVIII eram mulheres). E será que, as que conseguiram se infiltrar, não o fizeram porque eram excepcionais? Assim sendo, dificilmente essas mulheres não tiveram contribuições relevantes. Então, por que não as citamos? Em parte porque não foram registradas, em parte porque não foram creditadas… Mas, talvez, principalmente porque não era interessante aos homens essa formalização e legitimação social – e política – de que “não existe nenhuma diferença entre o cérebro de uma mulher e de um homem”, como defendia Jeanne Dummé no século XVII.
 
-Ressalto que não sou historiadora e não tenho a habilidade de fazer um resgate de mulheres que tiveram seus trabalhos roubados, ou levados, por quaisquer motivos, a serem assinados por homens. Fiz uma busca simples, com material facilmente acessível na _internet_, de mulheres cuja contribuição já é sabida, mas não divulgada amplamente. Além disso, busquei compilar informações básicas e úteis para alcançar uma leitura convidativa e rápida, cometendo o erro de não fazer jus à grandiosidade das vidas e dos trabalhos dessas mulheres.
-
-Além da limitação da minha restritíssima (única) fonte de pesquisa, evidencio a limitação em meu conhecimento e criatividade que deixaram escapar nomes de mulheres, bem como fatos relevantes de mulheres citadas, que poderiam ser úteis a outros leitores do glossário.
-
-Também aponto a falta de tempo para me dedicar mais a este projeto, que não me rende retorno financeiro. Para finalizar, é importante registrar que a visão de ciência, ou o que consideramos ciência, é extremamente eurocêntrica e isso lamentavelmente está embebido e refletido aqui, bem como em minha referência. Dito isto, toda contribuição visando a melhoria é bem-vinda.
-
-Notas para facilitar a leitura:
-
-* _BCE – Before Common Era; used instead of BC (Before Christ) and stands for the time before year 1_; em português, AEC – Antes da Era Comum, substituindo a.C (antes de Cristo).
-
-* _CE – Common Era; used instead of AD (Anno Domini) and represents the time from year 1 and onward_; em português, EC – Era Comum, substituindo d.C (depois de Cristo).
+A falta de referenciamento de mulheres e creditação de sua produção científica está para além do escopo deste glossário. No entanto, se faz cada-segundo-mais urgente a necessidade de quebrar este ciclo que se perpetua. Pensando nisso, aqui estão reunidos nomes de algumas das pensadoras que tiveram relevantes contribuições para a física e a astronomia como sugestão para que sejam introduzidas em aulas e materiais didáticos dessas áreas.
 
 </div>
