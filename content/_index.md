@@ -11,6 +11,8 @@ Pequeno glossário de mulheres que contribuíram de forma relevante para a evolu
 
 </div>
 
+
+
 <div align="justify">
 
 Garimpei no _site_ da Wikipedia ([_link_](https://en.wikipedia.org/wiki/Timeline_of_women_in_science); acesso em 26 de junho de 2024, às 18h) os principais nomes que me chamaram atenção. Escolhi aquelas cujos trabalhos me inspiraram possibilidades de como poderiam ser incorporadas em aulas para diferentes disciplinas a depender do tópico abordado. Contudo, fica a cargo de cada profissional como inseri-las.
