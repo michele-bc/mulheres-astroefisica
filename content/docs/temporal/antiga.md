@@ -1,7 +1,7 @@
 ---
-title: Leaf Page
+title: História Antiga
 type: docs
-prev: docs/folder/
+prev: docs/indice/
 ---
 
 This page is under a folder.
