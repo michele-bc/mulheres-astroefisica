@@ -1,10 +1,10 @@
 ---
-title: Folder
+title: Linha Temporal
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: docs/indice
+next: docs/folder/temporal
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+Mulheres organizadas por linha temporal.
