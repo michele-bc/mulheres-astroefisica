@@ -1,6 +1,8 @@
 ---
 title: Mulheres na Astro & Física
-toc: true
+toc: false
+sidebar:
+  open: true
 ---
 
 <div align="center">
