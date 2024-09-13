@@ -29,8 +29,8 @@ Também aponto a falta de tempo para me dedicar mais a este projeto, que não me
 
 Notas para facilitar a leitura:
 
-* _BCE – Before Common Era; used instead of BC (Before Christ) and stands for the time before year 1_; em português, AEC – Antes da Era Comum, substituindo a.C (antes de Cristo).
+* AEC – Antes da Era Comum, substituindo a.C (antes de Cristo). Em inglês, _BCE – Before Common Era; used instead of BC (Before Christ) and stands for the time before year 1_.
 
-* _CE – Common Era; used instead of AD (Anno Domini) and represents the time from year 1 and onward_; em português, EC – Era Comum, substituindo d.C (depois de Cristo).
+* EC – Era Comum, substituindo d.C (depois de Cristo). Em inglês, _CE – Common Era; used instead of AD (Anno Domini) and represents the time from year 1 and onward_.
 
 </div>
