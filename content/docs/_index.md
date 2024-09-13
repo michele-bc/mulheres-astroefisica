@@ -1,6 +1,6 @@
 ---
 title: Índice
-next: first-page
+next: temporal
 ---
 
 Navegue por linha temporal ou por disciplina.
