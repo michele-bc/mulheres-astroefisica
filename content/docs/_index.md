@@ -1,6 +1,8 @@
 ---
 title: Índice
-next: temporal
+next: /temporal/
+sidebar:
+  open: true
 ---
 
-Navegue por linha temporal ou por disciplina.
+Navegue por **linha temporal** ou por **disciplina**.
