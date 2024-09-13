@@ -326,9 +326,7 @@ At UCSD she helped develop the Faint Object Spectrograph for the Hubble Space Te
 
 ### Andrea M. Ghez
 
-- **2020**: Andrea M. Ghez received the Nobel Prize in Physics for their discovery of a supermassive compact object, now generally recognized to be a black hole, in the Milky Way's Galactic Center. She became the fourth woman to be awarded the Nobel Prize in Physics.
-
-- Her research focuses on the center of the Milky Way galaxy.
+- **2020**: Andrea M. Ghez received the Nobel Prize in Physics for their discovery of a supermassive compact object, now generally recognized to be a black hole, in the Milky Way's Galactic Center. She became the fourth woman to be awarded the Nobel Prize in Physics. Her research focuses on the center of the Milky Way galaxy.
 
 </div>
 
