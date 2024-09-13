@@ -1,7 +1,7 @@
 ---
-title: Disciplinas
+title: Disciplina
 type: docs
 prev: /
-next: docs/folder/
+next: docs/fundamentos/
 ---
 
