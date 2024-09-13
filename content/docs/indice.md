@@ -1,6 +1,7 @@
 ---
 title: Índice
 type: docs
+toc: false
 sidebar:
   open: true
 ---
