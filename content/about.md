@@ -15,7 +15,7 @@ A falta de referenciamento de mulheres e creditação de sua produção científ
 
 
 
-<div align="left">
+<div align="right">
 
 Michele Bertoldo Coêlho
 
