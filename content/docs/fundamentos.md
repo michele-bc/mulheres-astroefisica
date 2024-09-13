@@ -5,6 +5,8 @@ prev: /
 next: docs/folder/
 ---
 
+<div align="justify">
+
 ### Aglaonice
 
 - **150 BCE**: **Aglaonice** became the first female astronomer to be recorded in Ancient Greece; she **could predict the time and general area where a lunar eclipse would occur**
@@ -327,5 +329,7 @@ At UCSD she helped develop the Faint Object Spectrograph for the Hubble Space Te
 - **2020**: Andrea M. Ghez received the Nobel Prize in Physics for their discovery of a supermassive compact object, now generally recognized to be a black hole, in the Milky Way's Galactic Center. She became the fourth woman to be awarded the Nobel Prize in Physics.
 
 - Her research focuses on the center of the Milky Way galaxy.
+
+</div>
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBHTHWD0oE5KN-C_LBj61HWRgi52FpPYpFCGRBR9tBHrWcmsMXoX1XRo2RNAYDo3lCPc0cB6NLCoWzuSXRHc5zpLwr7u6FnJ5Mgyb0ODjQxumKRdLfUK3eYBxc8I3sEuYct1BOHp7mxljmHDCZrp7h9_RQ?key=Gc27NQbdFn2IdDy-T3B5-A)https\://en.wikipedia.org/wiki/Andrea\_M.\_Ghez
