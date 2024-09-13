@@ -1,7 +1,7 @@
 ---
 title: Disciplina
 type: docs
-prev: docs/indice/
+prev: docs/_index/
 next: docs/disciplina/fundamentos/
 sidebar:
   open: true
