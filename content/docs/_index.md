@@ -5,4 +5,4 @@ sidebar:
   open: true
 ---
 
-Navegue por **linha temporal** ou por **disciplina**.
+Navegue por [**linha temporal**](https://michele-bc.github.io/mulheres-astroefisica/docs/temporal/) ou por [**disciplina**](https://michele-bc.github.io/mulheres-astroefisica/docs/disciplina/).
