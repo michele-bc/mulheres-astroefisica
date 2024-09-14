@@ -2,7 +2,7 @@
 title: Idade Média
 type: docs
 prev: docs/temporal/antiga/
-next: docs/temporal/
+next: docs/temporal/sec16/
 ---
 
 <div align="justify">
