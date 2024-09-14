@@ -1,8 +1,8 @@
 ---
 title: Linha Temporal
 type: docs
-prev: docs/indice/
-next: docs/folder/temporal
+prev: docs/
+next: docs/temporal/antiga
 sidebar:
   open: true
 ---
