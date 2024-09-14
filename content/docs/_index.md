@@ -1,6 +1,7 @@
 ---
 title: Índice
 next: /temporal/
+toc: false
 sidebar:
   open: true
 ---
