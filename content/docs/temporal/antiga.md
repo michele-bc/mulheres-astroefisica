@@ -1,7 +1,7 @@
 ---
 title: História Antiga
 type: docs
-prev: docs/indice/
+prev: docs/
 ---
 
 This page is under a folder.
