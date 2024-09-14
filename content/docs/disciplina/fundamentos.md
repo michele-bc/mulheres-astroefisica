@@ -228,6 +228,29 @@ Payne foi capaz de **relacionar com precisão as classes espectrais das estrelas
 Pulsares são importantes na astronomia porque ao cronometrar com precisão os pulsos de pulsares amplamente dispersos em nossa galáxia, os astrônomos esperam medir variações sutis causadas pela passagem das ondas gravitacionais. Os cientistas esperam que essas cronometragens de pulsares possam detectar ondas gravitacionais causadas pelos movimentos de pares de buracos negros supermassivos no Universo primitivo, cordas cósmicas e, possivelmente, outros eventos exóticos nos primeiros segundos após o Big Bang. Além disso, os pulsares podem ser usados para testar a relatividade geral em condições de gravidade extremamente forte. Ao medir as propriedades das estrelas de nêutrons através dos pulsos dos pulsares, os astrônomos podem testar a relatividade geral com precisão. Os pulsares também são úteis para medir grandes distâncias no espaço devido às suas rotações precisas e permitiram que os astrônomos estudassem as estrelas de nêutrons, que são o único lugar onde o comportamento da matéria em densidade nuclear pode ser observado.
  
 
+### Vera Rubin
+
+- **1970**: A astrônoma Vera Rubin publicou a **primeira evidência para a matéria escura**.
+
+- **1981**: Vera Rubin foi a **segunda astrônoma feminina eleita para a Academia Nacional de Ciências**. Começando sua carreira acadêmica como a única aluna de graduação em astronomia no Vassar College, Rubin prosseguiu com estudos de pós-graduação na Universidade Cornell e na Universidade Georgetown, onde **observou desvios do fluxo de Hubble em galáxias e forneceu evidências para a existência de superaglomerados galácticos**.
+
+- Another area of interest for Rubin was the phenomenon of counter-rotation in galaxies. Her discovery that some gas and stars moved in the opposite direction to the rotation of the rest of the galaxy challenged the prevailing theory that all of the material in a galaxy moved in the same direction, and provided the first evidence for galaxy mergers and the process by which galaxies initially formed.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNN5CnMh4nmqPZ1FgAlSdk_9Ce5uWsUFT-EjJMW5BLov8FIWTZcaSycPFuZPqIYyRdxDPrlbatDkLVVq4OVhs4S7q3N4tXypM4_wZBCzhSrwAtynj2GSqMIVJYdl4TzZoqsKy1lqYg4pUgvLipZljW1OHw?key=Gc27NQbdFn2IdDy-T3B5-A)https\://en.wikipedia.org/wiki/Vera\_Rubin
+
+Vera Florence Cooper Rubin foi uma astrônoma americana **pioneira no estudo das taxas de rotação das galáxias**. Ela revelou a discrepância entre o movimento angular previsto e o observado das galáxias ao estudar as curvas de rotação galáctica. Ao identificar o problema da rotação das galáxias, seu trabalho **forneceu evidências para a existência da matéria escura**. Esses resultados foram posteriormente confirmados ao longo das décadas seguintes. O Observatório Vera C. Rubin, no Chile, recebeu seu nome em sua homenagem.
+
+Rubin **dedicou sua vida a advogar em favor das mulheres na ciência** e era conhecida por sua mentoria a aspirantes a astrônomas. Seu legado foi descrito pelo The New York Times como **"introduziu uma mudança em escala copernicana" na teoria cosmológica**.
+
+Rubin fez uma solicitação para observar no Observatório Palomar em 1965, apesar de o prédio não ter instalações para mulheres. Ela **criou seu próprio banheiro feminino, contornando a falta de infraestrutura disponível para ela**. Tornou-se a **primeira astrônoma mulher a observar lá**.
+
+O **efeito Rubin–Ford**, uma anisotropia aparente na expansão do Universo na escala de 100 milhões de anos-luz, foi descoberto através de estudos de galáxias espirais, particularmente da Galáxia de Andrômeda, escolhida por sua luminosidade e proximidade com a Terra. A ideia de movimento peculiar nessa escala no universo foi uma proposição altamente controversa, que foi publicada pela primeira vez em revistas científicas em 1976. Inicialmente foi rejeitada pelos astrônomos líderes, mas acabou sendo confirmada como válida. O efeito é atualmente conhecido como filamentos em larga escala.
+
+Ela investigou as curvas de rotação das galáxias espirais, começando novamente com Andrômeda, ao examinar seu material mais externo. Observou curvas de rotação planas: os componentes mais externos da galáxia se moviam tão rapidamente quanto aqueles próximos ao centro. Isso foi uma indicação precoce de que as galáxias espirais eram cercadas por halos de matéria escura. Ela descobriu ainda a discrepância entre o movimento angular previsto das galáxias com base na luz visível e o movimento observado. Sua pesquisa **mostrou que as galáxias espirais giram rápido o suficiente para se desintegrar se a gravidade das estrelas que as compõem fosse o único fator mantendo-as unidas; como elas permanecem intactas, uma grande quantidade de massa invisível deve estar mantendo-as juntas, um enigma que passou a ser conhecido como o problema da rotação das galáxias. Os cálculos de Rubin mostraram que as galáxias devem conter pelo menos de cinco a dez vezes mais matéria escura do que matéria comum.**
+
+Outra área de interesse para Rubin foi o fenômeno da contra-rotação em galáxias. **Sua descoberta de que alguns gases e estrelas se moviam na direção oposta à rotação do restante da galáxia desafiou a teoria predominante de que todo o material em uma galáxia se movia na mesma direção e forneceu a primeira evidência para fusões de galáxias e o processo pelo qual as galáxias se formaram inicialmente**.
+
+
 ### Margaret Burbidge
 
 - **1976**: Margaret Burbidge foi nomeada a **primeira mulher presidente da American Astronomical Society**.
