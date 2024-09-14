@@ -1,5 +1,5 @@
 ---
-title: Idade Média
+title: Século XVII
 type: docs
 prev: docs/temporal/sec16/
 next: docs/temporal/
