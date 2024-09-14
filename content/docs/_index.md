@@ -1,5 +1,6 @@
 ---
 title: Índice
+prev: /
 next: /temporal/
 toc: false
 sidebar:
