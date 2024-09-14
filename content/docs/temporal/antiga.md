@@ -1,8 +1,8 @@
 ---
 title: História Antiga
 type: docs
-prev: docs/
-next: docs/temporal/
+prev: docs/temporal/
+next: docs/temporal/media/
 ---
 
 <div align="justify">
