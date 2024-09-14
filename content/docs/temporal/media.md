@@ -1,7 +1,7 @@
 ---
 title: Idade Média
 type: docs
-prev: docs/antiga/
+prev: docs/temporal/antiga/
 next: docs/temporal/
 ---
 
