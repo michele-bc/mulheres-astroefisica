@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6a3632c4-546a-44c1-bc3a-f1535dc8da67)---
 title: Fundamentos de Astronomia e Astrofísica
 type: docs
 prev: docs/
@@ -215,6 +215,27 @@ Payne foi capaz de **relacionar com precisão as classes espectrais das estrelas
 - **1936**: A sismóloga e geofísica dinamarquesa Inge Lehmann **descobriu que a Terra possui um núcleo interno sólido distinto do seu núcleo externo fundido**.
 
 - A descontinuidade sísmica na velocidade das ondas sísmicas a profundidades entre 190 e 250 km é chamada de **descontinuidade de Lehmann** em sua homenagem. Lehmann é considerada uma pioneira entre as mulheres e cientistas na pesquisa sísmica.
+
+
+### Miriani Griselda Pastoriza
+
+- **1965**: Miriani Griselda Pastoriza é astrônoma, professora titular da Universidade Federal do Rio Grande do Sul e membro da Academia Brasileira de Ciências. Pastoriza nasceu na Argentina e é naturalizada brasileira. Uma das suas principais contribuições científicas foi a **descoberta e caracterização das chamadas galáxias Sersic-Pastoriza** juntamente com o astrônomo argentino J. L. Sérsic.
+
+- **1970**: Pastoriza determinou pessoalmente que o espectro da galáxia NGC 1566 é variável, o que foi uma descoberta surpreendente que introduziu uma mudança na disciplina. Dando continuidade a essa linha de pesquisa, Pastoriza, em colaboração com pesquisadores internacionais, realizou trabalhos sobre a variabilidade da luz em outras galáxias, o que possibilitou o mapeamento da estrutura e do tamanho das regiões centrais das galáxias onde estão localizados buracos negros supermassivos.
+
+- **1995**: Pastoriza foi incluída em uma lista dos 170 pesquisadores mais produtivos do Brasil em todas as áreas da ciência, publicada pela Folha de S.Paulo, um dos jornais com maior circulação no Brasil.
+
+- **2008**: Pastoriza foi agraciada com a medalha de Comendadora da Ordem Nacional do Mérito Científico — um dos mais altos reconhecimentos que um cientista pode aspirar no país — por suas contribuições relevantes para a Ciência e Tecnologia.
+
+- **2018**: A Universidade Nacional de Córdoba concedeu a Pastoriza o título de Doutora Honoris Causa em reconhecimento às suas contribuições para o campo da astronomia.
+
+![](https://pt.wikipedia.org/wiki/Ficheiro:HdC_Miriani_Pastoriza_(47146202331).jpg)<https://pt.wikipedia.org/wiki/Miriani_Griselda_Pastoriza>
+
+Sua maior contribuição científica, realizada em colaboração com seu orientador de doutorado, Jose Luiz Sersic, foi a descoberta de formação estelar, recente na região nuclear de galáxias espirais barradas; tais galáxias são conhecidas na literatura como galáxias do tipo Sersic-Pastoriza. Também conhecidas como galáxias com núcleos peculiares, são galáxias espirais cujo espectro de linhas de emissão do núcleo é similar ao de regiões HII normais, com a exceção de que os decrementos de Balmer indicam grande presença de avermelhamento.
+
+Pastoriza também é uma defensora ativa da igualdade feminina na ciência. Ela colabora com a Associação Latino-Americana de Mulheres Astrônomas. Além disso, participa de um programa no Brasil chamado "Meninas na Ciência".
+
+Pastoriza foi orientadora científica de muitos astrônomos brasileiros que hoje são destaques científicos internacionais, incluindo Thaisa Storchi Bergmann, Eduardo Luiz Damiani Bica, Fabricio Ferrari e Roberto Cid Fernandes. Ela alcançou a categoria mais alta para um pesquisador no Brasil, classificada como 1A dentro do CNPq. Ela é a representante do Brasil no Comitê Científico Internacional dos Telescópios Gemini e no Conselho de Diretores do Telescópio SOAR. A Sociedade Brasileira de Astronomia nomeou um prêmio em sua homenagem para reconhecer contribuições notáveis na pesquisa astronômica.
 
 
 ### Jocelyn Bell Burnell
