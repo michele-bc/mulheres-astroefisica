@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6a3632c4-546a-44c1-bc3a-f1535dc8da67)---
+---
 title: Fundamentos de Astronomia e Astrofísica
 type: docs
 prev: docs/
