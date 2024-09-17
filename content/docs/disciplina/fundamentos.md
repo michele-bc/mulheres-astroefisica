@@ -229,7 +229,7 @@ Payne foi capaz de **relacionar com precisão as classes espectrais das estrelas
 
 - **2018**: A Universidade Nacional de Córdoba concedeu a Pastoriza o título de Doutora Honoris Causa em reconhecimento às suas contribuições para o campo da astronomia.
 
-![](https://pt.wikipedia.org/wiki/Ficheiro:HdC_Miriani_Pastoriza_(47146202331).jpg)<https://pt.wikipedia.org/wiki/Miriani_Griselda_Pastoriza>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/HdC_Miriani_Pastoriza_%2847146202331%29.jpg/220px-HdC_Miriani_Pastoriza_%2847146202331%29.jpg)<https://pt.wikipedia.org/wiki/Miriani_Griselda_Pastoriza>
 
 Sua maior contribuição científica, realizada em colaboração com seu orientador de doutorado, Jose Luiz Sersic, foi a descoberta de formação estelar, recente na região nuclear de galáxias espirais barradas; tais galáxias são conhecidas na literatura como galáxias do tipo Sersic-Pastoriza. Também conhecidas como galáxias com núcleos peculiares, são galáxias espirais cujo espectro de linhas de emissão do núcleo é similar ao de regiões HII normais, com a exceção de que os decrementos de Balmer indicam grande presença de avermelhamento.
 
