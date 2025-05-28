@@ -2,7 +2,7 @@
 title: Século XVII
 type: docs
 prev: docs/temporal/sec16/
-next: docs/temporal/
+next: docs/temporal/sec18/
 ---
 
 <div align="justify">
