@@ -22,9 +22,10 @@ Após a morte do Barão von Krosigk em 1714, Kirch mudou-se para Danzig para aux
 
 ### Laura Bassi
 
-- **1732**: A astrônoma silésia Maria Cunitz **publicou "Urania Propitia", uma obra que tanto simplificou quanto aprimorou substancialmente os métodos matemáticos de Johannes Kepler para localizar planetas**. O livro foi publicado tanto em latim quanto em alemão, uma decisão pouco convencional que tornou o texto científico mais acessível para leitores não universitários.
+- **1732**: Aos 20 anos, a física italiana Laura Bassi tornou-se a primeira mulher membro da Academia de Ciências de Bolonha. Um mês depois, ela defendeu publicamente suas teses acadêmicas e recebeu um doutorado, sendo a **segunda mulher no mundo a alcançar esse título**. Bassi foi nomeada professora honorária de física na Universidade de Bolonha, tornando-se a **primeira mulher professora de física do mundo** e a **primeira docente universitária remunerada**. Ela se destacou como a **principal divulgadora da mecânica newtoniana na Itália**.
+- **1776**: Na Universidade de Bolonha, a física italiana Laura Bassi tornou-se a **primeira mulher nomeada para a cátedra de física em uma universidade**.
 
-![]([https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDjUJ-gFgp7S9HqFnDRUpARYaNrqUiMNGVvTxVKrEj-2pqnOWkTYqW4zhWhl1GKXCsJc1zmjgIBi3IKODBn40MidtBQpIUQ_FpLuffhy8ciE7WZEfwEbc8Z0frc9Reqrm3AzOyEzpqDgx7Tqin_UtuMcE?key=Gc27NQbdFn2IdDy-T3B5-A](https://upload.wikimedia.org/wikipedia/commons/3/31/Laura_Bassi.jpg))<https://en.wikipedia.org/wiki/Laura_Bassi>
+![](https://upload.wikimedia.org/wikipedia/commons/3/31/Laura_Bassi.jpg)<https://en.wikipedia.org/wiki/Laura_Bassi>
 
 
 ### Margaret Lucas Cavendish
