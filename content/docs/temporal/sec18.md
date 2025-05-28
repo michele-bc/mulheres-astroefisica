@@ -23,6 +23,7 @@ Após a morte do Barão von Krosigk em 1714, Kirch mudou-se para Danzig para aux
 ### Laura Bassi
 
 - **1732**: Aos 20 anos, a física italiana Laura Bassi tornou-se a primeira mulher membro da Academia de Ciências de Bolonha. Um mês depois, ela defendeu publicamente suas teses acadêmicas e recebeu um doutorado, sendo a **segunda mulher no mundo a alcançar esse título**. Bassi foi nomeada professora honorária de física na Universidade de Bolonha, tornando-se a **primeira mulher professora de física do mundo** e a **primeira docente universitária remunerada**. Ela se destacou como a **principal divulgadora da mecânica newtoniana na Itália**.
+  
 - **1776**: Na Universidade de Bolonha, a física italiana Laura Bassi tornou-se a **primeira mulher nomeada para a cátedra de física em uma universidade**.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/31/Laura_Bassi.jpg)<https://en.wikipedia.org/wiki/Laura_Bassi>
@@ -65,6 +66,7 @@ Publicado dez anos após sua morte, **hoje a tradução de du Châtelet do Princ
 ### Nicole-Reine Lepaute
 
 - **1757**: A astrônoma francesa Nicole-Reine Lepaute trabalhou com os matemáticos Alexis Clairaut e Joseph Lalande para **calcular o próximo retorno do Cometa Halley**. Entre seus outros feitos astronômicos estão os cálculos do eclipse solar de 1764 e a produção de almanaques de 1759 a 1783. Junto de seu marido, Lepaute desenvolveu métodos astronômicos para prever a trajetória do Cometa Halley e criou novas invenções no campo da relojoaria. Ela também trabalhou nas Éphémerides — guias anuais para astrônomos e navegadores.
+  
 - **1762**: Nicole-Reine Lepaute calculou o horário e a porcentagem de um eclipse solar previsto para ocorrer dois anos depois. Ela criou um mapa detalhando as fases do fenômeno e publicou uma tabela com seus cálculos na edição de 1763 do *Connaissance des Temps* (Conhecimento dos Tempos).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nicole-Reine_Lepaute.jpg/800px-Nicole-Reine_Lepaute.jpg" alt="" height="300"><https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute>
@@ -73,13 +75,16 @@ Publicado dez anos após sua morte, **hoje a tradução de du Châtelet do Princ
 ### Margaretha and Christine Kirch
 
 - As filhas dos astrônomos Gottfried Kirch e **Maria Margarethe Kirch**, e irmãs de Christfried Kirch, foram educadas em astronomia e trabalharam como assistentes de seus pais e, posteriormente, de seu irmão, no Observatório de Berlim. Elas realizavam **observações astronômicas e cálculos para efemérides planetárias**.
+  
 - **1743**: Após a passagem do Grande Cometa C/1743 X1 pelo Sol, Margaretha **observou e registrou em um desenho a divisão da cauda do cometa em filamentos** no dia 5 de março. Esse fenômeno só foi observado nos quatro dias seguintes por Joseph-Nicolas Delisle e Gottfried Heinsius em São Petersburgo, além do renomado astrônomo Jean-Philippe de Chéseaux em Lausanne.
+  
 - **1776**: Christine Kirch **recebeu um salário respeitável** de 400 táleres pela elaboração de calendários. Após a morte de seu irmão Christfried, a **academia passou a depender dela para os cálculos dos calendários**. Ela assumiu a responsabilidade de calcular o calendário da Silésia, uma província que a Prússia conquistou no início da década de 1740. A academia tinha o monopólio dos calendários, e o da Silésia gerava uma renda significativa. Por isso, em 1776, Kirch recebeu da academia um salário considerável de 400 táleres. Ela continuou seu trabalho na elaboração de calendários para a academia até a velhice, sendo altamente respeitada. Aos 77 anos, a academia concedeu-lhe o **status de emérita**, e ela continuou a receber um salário sem a obrigação de trabalhar. Christine também foi responsável por introduzir o astrônomo Johann Bode no ofício de elaborar calendários.
 
 
 ### Claudine Picardet
 
 - **1782–1791**: A química e mineralogista francesa Claudine Picardet **traduziu mais de 800 páginas de artigos científicos** do sueco, alemão, inglês e italiano para o francês, permitindo que cientistas franceses pudessem discutir e utilizar melhor pesquisas internacionais em química, mineralogia e astronomia.
+  
 - Ela traduziu trabalhos de importantes cientistas suecos (Scheele, Bergman), alemães (Johann Christian Wiegleb, Johann Friedrich Westrumb, Johann Carl Friedrich Meyer, Martin Heinrich Klaproth), ingleses (Richard Kirwan, William Fordyce), italianos (Marsilio Landriani) e possivelmente do latim (Bergman). Embora a maioria de suas traduções fossem sobre química e mineralogia, ela também traduziu alguns trabalhos meteorológicos, incluindo *"Observationes astron. annis 1781, 82, 83 institutæ in observatorio regio Havniensi"* (1784), que relatava observações astronômicas da longitude do nó orbital de Marte.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f3/Claudine_Picardet_%28Baronne_Guyton_de_Morveau%29.jpg)<https://en.wikipedia.org/wiki/Claudine_Picardet>
@@ -98,5 +103,58 @@ Seus trabalhos, incluindo discussões sobre os movimentos de estrelas e planetas
 Wang Zhenyi comparou o conhecimento astronômico chinês e ocidental, adotando uma abordagem comparativa em sua pesquisa. Ela identificou tanto similaridades quanto diferenças fundamentais nos métodos chinês e ocidental, contribuindo para a integração desses sistemas de conhecimento no século XVIII.
 
 **As obras e abordagem de Wang foram inovadoras para sua época**, misturando conhecimento científico chinês e ocidental, defendendo pesquisas comparativas e aplicando métodos inovadores tanto em astronomia quanto em matemática. Seu legado é um testemunho de suas contribuições para a ciência e cultura na China do século XVIII.
+
+
+### Caroline Herschel
+
+- **1786–1797**: A astrônoma alemã Caroline Herschel **descobriu oito novos cometas**, além de numerosas outras descobertas. Ela era a irmã mais nova do astrônomo William Herschel, com quem trabalhou ao longo de sua carreira.
+
+- Ela foi a primeira mulher a receber um salário como cientista e a primeira mulher na Inglaterra a ocupar um cargo governamental.
+
+- Ela também foi a primeira mulher a publicar descobertas científicas no Philosophical Transactions of the Royal Society, a receber uma Medalha de Ouro da Royal Astronomical Society (1828) e a ser nomeada membro honorário da *Royal Astronomical Society* (1835, junto com Mary Somerville). Foi nomeada membro honorária da *Royal Irish Academy* (1838). O Rei da Prússia a agraciou com uma Medalha de Ouro por Ciência na ocasião de seu 96º aniversário (1846).
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAPENdTxG05HL2o74-t3qpMPcCXT5yK8nj1B0RHoA2JthVo4YkV8RlGblCJ0OSf2YtHDkLsnGAFS9f24KP7pAMZS4_Gpz2ioDhjaqnhqohjo877Llfe4P2aR7gJq6BT-bmxz1XPQ8DHVD-o2eKGv6xYHdb?key=Gc27NQbdFn2IdDy-T3B5-A)<https://en.wikipedia.org/wiki/Caroline_Herschel>
+
+Em 28 de agosto de 1782, Caroline iniciou seu primeiro livro de registros. Ela escreveu nas três primeiras páginas de abertura: "Isso é o que eu chamo de Contas & Recibos dos meus Cometas", "Cometas e Cartas" e "Livros de Observações". Este livro, juntamente com dois outros subsequentes, atualmente faz parte do acervo Herschel na *Royal Astronomical Society* em Londres.
+
+Durante 1786–1797, ela descobriu oito cometas, o primeiro em 1 de agosto de 1786, enquanto seu irmão estava ausente e ela usava seu telescópio. Ela teve prioridade indiscutível como descobridora de cinco dos cometas e redescobriu o Cometa Encke em 1795. Cinco de seus cometas foram publicados no *Philosophical Transactions*. Um pacote de papel com a inscrição "Isso é o que eu chamo de Registros dos meus Cometas" contém alguns dados relacionados à descoberta de cada um desses objetos.
+
+Em 26 de fevereiro de 1783, Caroline fez sua primeira descoberta: **encontrou uma nebulosa que não estava incluída no catálogo de Messier**. Na mesma noite, ela **descobriu independentemente o Messier 110 (NGC 205)**, o segundo companheiro da Galáxia de Andrômeda.
+
+Em 1798, Caroline apresentou à *Royal Society* um índice das observações de John Flamsteed, juntamente com um catálogo de 560 estrelas omitidas do Catálogo Britânico e uma lista de erratas dessa publicação. Como o catálogo de Flamsteed estava organizado por constelação, ele era menos útil para os Herschel, então **Caroline criou seu próprio catálogo organizado pela distância polar norte**.
+
+Em 1797, as observações de William haviam mostrado que havia muitas discrepâncias no catálogo estelar publicado por John Flamsteed, que era difícil de usar porque havia sido publicado em dois volumes, o catálogo propriamente dito e um volume de observações originais, e continha muitos erros. William percebeu que precisava de um índice cruzado adequado para explorar corretamente essas diferenças, mas estava relutante em dedicar tempo a isso em detrimento de suas atividades astronômicas mais interessantes. Ele, então, recomendou a Caroline que ela assumisse a tarefa, que acabou levando 20 meses para ser concluída. O resultado foi o *"Catalogue of Stars, Taken from Mr. Flamsteed's Observations Contained in the Second Volume of the Historia Coelestis, and Not Inserted in the British Catalogue"*, publicado pela *Royal Society* em 1798, que continha um **índice de cada observação de cada estrela feita por Flamsteed, uma lista de erratas e uma lista de mais de 560 estrelas que não haviam sido incluídas**.
+
+Em 1802, a *Royal Society* publicou o catálogo de Caroline no *Philosophical Transactions of the Royal Society A* sob o nome de William. Este catálogo listava cerca de 500 novas nebulosas e aglomerados, além das já conhecidas 2000.
+
+No final da vida de Caroline, ela **organizou 2500 nebulosas e aglomerados estelares em zonas de distâncias polares semelhantes** para que seu sobrinho, John Herschel, pudesse reexaminá-los sistematicamente. A lista foi eventualmente ampliada e renomeada como *"New General Catalogue"*. **Muitos objetos não estelares ainda são identificados pelo seu número NGC**.
+
+
+### Louise du Pierry
+
+- **1789**: A astrônoma francesa Louise du Pierry, **primeira mulher parisiense a se tornar professora de astronomia**, ministrou os primeiros cursos de astronomia especificamente abertos para estudantes do sexo feminino.
+
+- **1791**: Publicou *"Tables de l'effet des réfractions, en ascension droite et en déclinaison, pour la latitude de Paris"*. Esta publicação tratava da **estimativa do efeito de refração**, cujo conhecimento era necessário para os cálculos dos astrônomos. A série de tabelas fornecia a quantidade do efeito de refração em função da ascensão reta e declinação na latitude de Paris.
+
+- **1792**: Publicou *"Tables de la durée du jour et de la nuit"*. Esta publicação fornecia a **duração dos dias e noites** para usos tanto astronômicos quanto civis.
+
+
+### Huang Lü
+
+- **1796-1820**: Durante o reinado do Imperador Jiaqing, a astrônoma Huang Lü tornou-se a **primeira mulher chinesa a trabalhar com óptica e imagens fotográficas**. Ela **desenvolveu um telescópio capaz de capturar imagens fotográficas** simples utilizando papel fotossensível.
+
+
+### Margaret Bryan
+
+- **1797**: Ela publicou *"A Compendious System of Astronomy"*, que coletava suas palestras sobre astronomia e incluía uma gravura dela mesma e de suas duas filhas. Ela dedicou o livro a seus alunos. As palestras que compunham o livro foram elogiadas por Charles Hutton, da Royal Military Academy, Woolwich.
+
+- **1806**: Ela publicou *"Lectures on Natural Philosophy"*, um livro didático sobre os fundamentos da física e da astronomia. O livro continha treze palestras sobre hidrostática, óptica, pneumática e acústica.
+
+- **1815**: Ela publicou *"An Astronomical and Geographical Class Book for the Use of Schools and Private Families"*. As palestras, que anteriormente estavam disponíveis apenas para nobres, educadores e livreiros, foram agora acessíveis ao público mais amplo. O texto foi complementado com diagramas e seções para exercícios. Ela descreveu a mecânica do rifle de ar, o balão de ar quente, o sino submersível, bem como os trabalhos de Isaac Newton, Galileu e Benjamin Franklin, incluindo os experimentos deste último com relâmpagos.
+
+- **Pioneira da educação feminina**, ensinou ciências a mulheres e meninas de suas escolas em Margate e Londres.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfMQHhalidXoQ5SxMeIGFul4194Mmgm7_IvRmHNpj1CyC6K4ViMHQrDVDZtyoWXIqvQzz5SQRkdLc1hFaxh4nSX2DPmQCAnzJPz5c3AHGDq6MtU5VGVscWMqamvznjLwGUFcqkHwiEY20rDNMMPuCc48Nae?key=Gc27NQbdFn2IdDy-T3B5-A)<https://en.wikipedia.org/wiki/Margaret_Bryan_(philosopher)>
+
 
 </div>
