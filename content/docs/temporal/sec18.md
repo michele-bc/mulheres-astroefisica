@@ -69,6 +69,9 @@ Publicado dez anos após sua morte, **hoje a tradução de du Châtelet do Princ
   
 - **1762**: Nicole-Reine Lepaute calculou o horário e a porcentagem de um eclipse solar previsto para ocorrer dois anos depois. Ela criou um mapa detalhando as fases do fenômeno e publicou uma tabela com seus cálculos na edição de 1763 do *Connaissance des Temps* (Conhecimento dos Tempos).
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nicole-Reine_Lepaute.jpg/800px-Nicole-Reine_Lepaute.jpg" alt="" style="width:50%; height:auto;"><https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute>
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nicole-Reine_Lepaute.jpg/800px-Nicole-Reine_Lepaute.jpg" alt="" height="10"><https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute>
 
 
