@@ -72,9 +72,6 @@ Publicado dez anos após sua morte, **hoje a tradução de du Châtelet do Princ
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nicole-Reine_Lepaute.jpg/800px-Nicole-Reine_Lepaute.jpg" alt="" style="width:50%; height:auto;"><https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute>
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nicole-Reine_Lepaute.jpg/800px-Nicole-Reine_Lepaute.jpg" alt="" height="10"><https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute>
-
-
 ### Margaretha and Christine Kirch
 
 - As filhas dos astrônomos Gottfried Kirch e **Maria Margarethe Kirch**, e irmãs de Christfried Kirch, foram educadas em astronomia e trabalharam como assistentes de seus pais e, posteriormente, de seu irmão, no Observatório de Berlim. Elas realizavam **observações astronômicas e cálculos para efemérides planetárias**.
