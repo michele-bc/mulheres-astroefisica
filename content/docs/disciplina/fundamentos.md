@@ -135,6 +135,15 @@ Ela estava entre aqueles que discutiram um planeta hipotético perturbando Urano
 Seu livro "Physical Geography" foi publicado em 1848 e foi **o primeiro livro didático em inglês sobre o assunto**. Ele permaneceu em uso até o início do século XX. Somerville começa o livro descrevendo a **estrutura geral do planeta Terra, juntamente com uma breve alusão à localização da Terra dentro do Sistema Solar**. Em seguida, o livro foca em tópicos terrestres, como as características mais básicas da terra e da água, e formações como montanhas, vulcões, oceanos, rios e lagos. Somerville discute os elementos que governam a temperatura, como luz, eletricidade, tempestades, aurora e magnetismo. Eventualmente, o livro aborda a vegetação, aves e mamíferos, e sua distribuição geográfica no Ártico, Europa, Ásia, África, América e Antártida. Somerville termina o livro com uma discussão sobre "a distribuição, condição e perspectivas futuras da raça humana". Ela enfatiza as dependências recíprocas na geografia física e a relação entre os seres humanos e a natureza.
 
 
+### Mary Parsons
+
+- **1845**: Mary Rosse ajudou seu marido, Lord Rosse, a construir vários telescópios gigantes, incluindo o chamado Telescópio Leviatã, que foi considerado uma maravilha técnica em sua época. Henrietta Heald argumenta que Rosse não foi apenas um apoio financeiro para a construção do telescópio, mas que também esteve envolvida em capacidade prática e intelectual. O Leviatã de Parsontown foi concluído em 1845 e **manteve o recorde de maior telescópio do mundo por mais de 70 anos**, sendo mencionado no romance de ficção científica de Jules Verne, Da Terra à Lua.
+
+- Mary Parsons era anglo-irlandesa, astrônoma amadora, arquiteta, designer de móveis, ferreira e fotógrafa pioneira.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/Mary%2C_Countess_of_Rosse.jpg)<https://en.wikipedia.org/wiki/Mary_Rosse>
+
+
 ### Thereza Dillwyn Llewelyn
 
 - **1855**: Trabalhando com seu pai, a astrônoma e fotógrafa galesa Thereza Dillwyn Llewelyn produziu algumas das primeiras fotografias da Lua.
