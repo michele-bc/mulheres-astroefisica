@@ -136,7 +136,7 @@ Elisha (marido) registrou uma patente em 1842 de um **fogão de cozinha com cont
 
 - Impedida de receber um diploma de Cambridge por causa de seu gênero, ela foi uma das "*steamboat ladies*" que viajaram para a Irlanda entre 1904 e 1907 para obter um grau ad eundem (título acadêmico concedido por uma universidade a um indivíduo que já possui um diploma equivalente de outra instituição de prestígio como forma de reconhecimento mútuo) na Universidade de Dublin, no Trinity College.
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/3f/Phillipafawcett.jpg)<https://pt.wikipedia.org/wiki/Phillippa_Fawcett>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Phillipafawcett.jpg" alt="" style="width:20%; height:auto;"><https://pt.wikipedia.org/wiki/Phillippa_Fawcett>
 
 
 ### Dorothea Klumpke
@@ -145,7 +145,7 @@ Elisha (marido) registrou uma patente em 1842 de um **fogão de cozinha com cont
 
 - **1893**: A astrônoma obteve o título de Doutora em Ciências pela Universidade de Paris. É considerada a **primeira a receber um doutorado em astronomia**.
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/97/Dorothea_Klumpke_Roberts00.jpg)<https://en.wikipedia.org/wiki/Dorothea_Klumpke>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Dorothea_Klumpke_Roberts00.jpg" alt="" style="width:20%; height:auto;"><https://en.wikipedia.org/wiki/Dorothea_Klumpke>
 
 
 ### Margaretta Palmer
