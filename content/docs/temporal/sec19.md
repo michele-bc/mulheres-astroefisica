@@ -101,4 +101,98 @@ Elisha (marido) registrou uma patente em 1842 de um **fogão de cozinha com cont
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f6/Sofja_Wassiljewna_Kowalewskaja_1.jpg)<https://pt.wikipedia.org/wiki/Sofia_Kovalevskaya>
 
 
+### Josephine Silone Yates
+
+- **1888**: Química americana Josephine Silone Yates foi nomeada chefe do Departamento de Ciências Naturais do *Lincoln Institute* (posteriormente *Lincoln University*), tornando-se a **primeira mulher negra a chefiar um departamento de ciências em uma faculdade**.
+
+- Professora, escritora, oradora pública e ativista americana. Ela pode ter sido a primeira mulher negra a ocupar uma cátedra como professora titular em uma faculdade ou universidade dos EUA.
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Josephine_Silone_Yates%2C_c1902_%28cropped%29.jpg)<https://en.wikipedia.org/wiki/Josephine_Silone_Yates>
+
+
+### Agnes Giberne
+
+- **1890**: Educadora e autora de divulgação científica Agnes Giberne **cofundou a *British Astronomical Association***. Posteriormente, a astrônoma inglesa Elizabeth Brown foi nomeada Diretora da Solar Section da associação, conhecida por seus estudos sobre manchas solares e outros fenômenos do Sol.
+
+- Agnes escreveu livros de ciência para jovens, alguns romances históricos e uma biografia aclamada.
+
+
+### Elizabeth Brown
+
+- **1890**: Astrônoma britânica e quaker (membra de um movimento cristão conhecido por uma tradição de ativismo social, incluindo a luta pela abolição da escravidão e pelos direitos das mulheres), especializada em observação solar, particularmente em manchas solares e eclipses solares. Ela também contribuiu para as atividades de outras seções de observação, incluindo as seções lunar, de estrelas variáveis e de estrelas coloridas.
+
+- Ela teve um papel fundamental na **fundação da *British Astronomical Association*** e também foi uma das **primeiras mulheres *Fellow da Royal Meteorological Society***.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Astronomer_Elizabeth_Brown.jpg/250px-Astronomer_Elizabeth_Brown.jpg)<https://en.wikipedia.org/wiki/Elizabeth_Brown_(astronomer)>
+
+
+### Philippa Fawcett
+
+- **1890**: Matemática Philippa Fawcett tornou-se a **primeira mulher a obter a pontuação mais alta nos exames *Cambridge Mathematical Tripos*, uma nota acima do *Senior Wrangler*** (na época, mulheres não podiam ser nomeadas *Senior Wrangler*).
+
+- Ela ganhou a bolsa Marion Kennedy em Cambridge, por meio da qual conduziu pesquisas em dinâmica dos fluidos. Seus artigos publicados incluem *"Note on the Motion of Solids in a Liquid"*.
+
+- Foi nomeada professora universitária de matemática no Newnham College, cargo que ocupou por 10 anos. Nessa função, suas habilidades de ensino receberam elogios consideráveis.
+
+- Impedida de receber um diploma de Cambridge por causa de seu gênero, ela foi uma das "*steamboat ladies*" que viajaram para a Irlanda entre 1904 e 1907 para obter um grau ad eundem (título acadêmico concedido por uma universidade a um indivíduo que já possui um diploma equivalente de outra instituição de prestígio como forma de reconhecimento mútuo) na Universidade de Dublin, no Trinity College.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/3f/Phillipafawcett.jpg)<https://pt.wikipedia.org/wiki/Phillippa_Fawcett>
+
+
+### Dorothea Klumpke
+
+- **1891**: A astrônoma norte-americana Dorothea Klumpke foi nomeada **Chefe do Bureau de Medidas do Observatório de Paris**. Na década seguinte, além de completar seu doutorado em ciências, ela trabalhou no projeto de mapeamento *Carte du Ciel*. Seu trabalho foi reconhecido com o **primeiro *Prix de Dames* concedido pela *Société astronomique de France*** e ela foi nomeada *Officier* da Academia de Ciências de Paris.
+
+- **1893**: A astrônoma obteve o título de Doutora em Ciências pela Universidade de Paris. É considerada a **primeira a receber um doutorado em astronomia**.
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/97/Dorothea_Klumpke_Roberts00.jpg)<https://en.wikipedia.org/wiki/Dorothea_Klumpke>
+
+
+### Margaretta Palmer
+
+- **1894**: A astrônoma americana Margaretta Palmer torna-se a **primeira mulher a obter um doutorado em astronomia nos Estados Unidos** e a **segunda mulher a receber um doutorado em astronomia do mundo**. Seu doutorado foi concedido pelo departamento de matemática de Yale, mas o tema era astronomia, tratando do cálculo da órbita do cometa C/1847 T1, descoberto em 1847 por Maria Mitchell. Em sua tese, Palmer comentou que os cometas que escolheu estudar foram selecionados em parte porque haviam sido descobertos por mulheres. Nesse período, Palmer também determinou as órbitas de outros três cometas e coletou um extenso conjunto de observações das luas de Júpiter. No entanto, não conseguiu concluir os cálculos detalhados das órbitas dessas luas devido a uma "doença prolongada e grave".
+
+- **1915**: Tornou-se **membra da *American Astronomical Society***.
+
+- **1917**: Seu trabalho incluiu a **compilação do *Yale Index to Star Catalogues***, um cruzamento de referências das aparições de estrelas do *Bonner Durchmusterung* (o catálogo estelar alemão mais abrangente do século XIX) em outros catálogos estelares, que ela anunciou de forma incompleta em uma publicação de 1917.
+
+- **1924**: Em colaboração com Frank Schlesinger, **publicou outro catálogo estelar pioneiro, contendo as distâncias de 1870 estrelas** calculadas por Schlesinger usando o princípio da paralaxe.
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e6/Margaretta_Palmer_1918.jpg)<https://en.wikipedia.org/wiki/Margaretta_Palmer>
+
+
+### Isabelle Stone
+
+- **1897**: A física americana Isabelle Stone tornou-se a **primeira mulher a receber um PhD em física nos Estados Unidos**. Ela escreveu sua dissertação "Sobre a Resistência Elétrica de Filmes Finos" na Universidade de Chicago. A pesquisa de Stone focava na resistência elétrica e outras propriedades de filmes finos.
+
+- **1899**: Ela foi **uma das duas mulheres (entre um total de 40 participantes) na primeira reunião da *American Physical Society***, realizada na Universidade de Columbia (a outra sendo Marcia Keith).
+
+- **1900**: Stone foi **uma das duas mulheres (entre um total de 836 participantes) a comparecer ao primeiro Congresso Internacional de Física em Paris** (a outra sendo Marie Curie).
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/IsabelleStone1920.png)<https://en.wikipedia.org/wiki/Isabelle_Stone>
+
+
+### Kirstine Meyer
+
+- **1898**: A física dinamarquesa Kirstine Meyer foi **premiada com a medalha de ouro da Real Academia Dinamarquesa de Ciências e Letras**, por um artigo que investigava se existe uma equação de estado geral para todos os corpos fluidos, *"Om overensstemmende Tilstande hos Stofferne"*.
+
+- **1909**: Ela recebeu seu doutorado em física pela Universidade de Copenhague em 1909, tornando-se a **primeira mulher dinamarquesa a obter um doutorado em ciências naturais**. Sua tese, "O Desenvolvimento do Conceito de Temperatura ao Longo do Tempo", foi um tratamento aprofundado da história do conceito de temperatura.
+
+
+### Marcia Keith
+
+- **1899**: As físicas americanas Marcia Keith e Isabelle Stone tornaram-se membras **fundadoras da *American Physical Society***. Keith investigou a física da transmissão de calor em gases a baixas temperaturas.
+
+- Keith foi **pioneira na educação de mulheres na ciência da física**. Acredita-se que ela foi a primeira a introduzir trabalhos laboratoriais individuais para estudantes. Ela também lançou o colóquio de física no Mt. Holyoke para aumentar a conscientização entre os estudantes sobre o crescente campo da física.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/66/Portrait_of_Marcia_Anna_Keith.jpeg)<https://en.wikipedia.org/wiki/Marcia_Keith>
+
+
+### Edith Anne Stoney
+
+- **1899**: A física irlandesa Edith Anne Stoney foi nomeada professora de física na *London School of Medicine for Women*, tornando-se a **primeira física médica mulher**. Ela posteriormente tornou-se uma figura **pioneira no uso de máquinas de raio-X nas frentes de batalha da Primeira Guerra Mundial**.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Edith_Anne_Stoney.jpg/800px-Edith_Anne_Stoney.jpg" alt="" style="width:20%; height:auto;"><https://en.wikipedia.org/wiki/Edith_Anne_Stoney>
+
+
 </div>
