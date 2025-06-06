@@ -98,7 +98,7 @@ Elisha (marido) registrou uma patente em 1842 de um **fogão de cozinha com cont
   
 - Ela foi pioneira para mulheres na matemática em todo o mundo -- a **primeira mulher a obter um doutorado (no sentido moderno) em matemática**, a **primeira mulher nomeada como professora titular no norte da Europa** e **uma das primeiras mulheres a trabalhar como editora em um periódico científico**.
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f6/Sofja_Wassiljewna_Kowalewskaja_1.jpg)<https://pt.wikipedia.org/wiki/Sofia_Kovalevskaya>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Sofja_Wassiljewna_Kowalewskaja_1.jpg" alt="" style="width:20%; height:auto;"><https://pt.wikipedia.org/wiki/Sofia_Kovalevskaya>
 
 
 ### Josephine Silone Yates
@@ -107,7 +107,7 @@ Elisha (marido) registrou uma patente em 1842 de um **fogão de cozinha com cont
 
 - Professora, escritora, oradora pública e ativista americana. Ela pode ter sido a primeira mulher negra a ocupar uma cátedra como professora titular em uma faculdade ou universidade dos EUA.
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Josephine_Silone_Yates%2C_c1902_%28cropped%29.jpg)<https://en.wikipedia.org/wiki/Josephine_Silone_Yates>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Josephine_Silone_Yates%2C_c1902_%28cropped%29.jpg" alt="" style="width:20%; height:auto;"><https://en.wikipedia.org/wiki/Josephine_Silone_Yates>
 
 
 ### Agnes Giberne
@@ -169,7 +169,7 @@ Elisha (marido) registrou uma patente em 1842 de um **fogão de cozinha com cont
 
 - **1900**: Stone foi **uma das duas mulheres (entre um total de 836 participantes) a comparecer ao primeiro Congresso Internacional de Física em Paris** (a outra sendo Marie Curie).
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/IsabelleStone1920.png)<https://en.wikipedia.org/wiki/Isabelle_Stone>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/IsabelleStone1920.png" alt="" style="width:20%; height:auto;"><https://en.wikipedia.org/wiki/Isabelle_Stone>
 
 
 ### Kirstine Meyer
