@@ -17,7 +17,7 @@ next: docs/temporal/
 
 - Antes de sua morte, Gauss havia recomendado que ela recebesse um título honorário, mas isso nunca aconteceu. No centenário de sua vida, uma rua e uma escola para meninas receberam seu nome. A **Academia de Ciências estabeleceu o Prêmio Sophie Germain em sua homenagem**.
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/8b/Germain.jpeg)<https://pt.wikipedia.org/wiki/Sophie_Germain>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Germain.jpeg" alt="" style="width:20%; height:auto;"><https://pt.wikipedia.org/wiki/Sophie_Germain>
 
 
 ### Mary Somerville
