@@ -39,7 +39,7 @@ Seu livro "Physical Geography" foi publicado em 1848 e foi **o primeiro livro di
 
 - **1843**: Durante um período de nove meses entre 1842 e 1843, a matemática inglesa Ada Lovelace traduziu o artigo de Luigi Menabrea sobre a mais nova máquina proposta por Charles Babbage, a *Analytical Engine*. Junto ao artigo, ela acrescentou um conjunto de notas. Suas notas foram identificadas alfabeticamente de A a G. Na nota G, ela descreve um algoritmo para a *Analytical Engine* calcular números de Bernoulli. Esse é considerado o **primeiro algoritmo publicado especificamente projetado para implementação em um computador** e, por esse motivo, Ada Lovelace frequentemente é citada como a **primeira pessoa programadora de computadores**. A máquina nunca foi concluída, então seu programa nunca foi testado. Ela foi a primeira a reconhecer que a máquina tinha aplicações além do cálculo puro.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/800px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png)<https://en.wikipedia.org/wiki/Ada_Lovelace>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/800px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png" alt="" style="width:20%; height:auto;"><https://en.wikipedia.org/wiki/Ada_Lovelace>
 
 
 ### Mary Parsons
@@ -158,7 +158,7 @@ Elisha (marido) registrou uma patente em 1842 de um **fogão de cozinha com cont
 
 - **1924**: Em colaboração com Frank Schlesinger, **publicou outro catálogo estelar pioneiro, contendo as distâncias de 1870 estrelas** calculadas por Schlesinger usando o princípio da paralaxe.
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e6/Margaretta_Palmer_1918.jpg)<https://en.wikipedia.org/wiki/Margaretta_Palmer>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Margaretta_Palmer_1918.jpg" alt="" style="width:20%; height:auto;"><https://en.wikipedia.org/wiki/Margaretta_Palmer>
 
 
 ### Isabelle Stone
