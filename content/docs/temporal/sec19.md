@@ -23,6 +23,7 @@ next: docs/temporal/
 ### Mary Somerville
 
 - **1835**: A polímata escocesa Mary Somerville e a astrônoma alemã Caroline Herschel foram eleitas as primeiras mulheres membros da Royal Astronomical Society.
+- **1834**: A palavra "cientista" foi cunhada para descrever Mary Somerville por William Whewell. A primeira vez que a palavra cientista (como profissão) foi usada, foi para se referir a Somerville.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdNzjCLfffoLDAJ6uvjoju6EdOdMbxHCH3zpfXIGEj_XqHJr7XTQ6lqGlXELTM46ahAcevhU7k4mgtnEcXDrs8iNEVLz5WAUeYnKgJtQQALXXjRE_XeISagDFOvielGCwuAOrlWb_SkDRP_VUGFhVPdVw?key=Gc27NQbdFn2IdDy-T3B5-A)<https://en.wikipedia.org/wiki/Mary_Somerville>
 
