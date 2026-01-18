@@ -7,6 +7,19 @@ next: docs/temporal/media/
 
 <div align="justify">
 
+
+### Enheduanna
+
+- **2300 AEC**: Enheduanna é a pessoa de nome conhecido mais antiga a ser escritora na história mundial.
+
+
+### Tapputi-Belatekalli
+
+- **1200 AEC**: Tapputi é a pessoa de nome conhecido mais antiga a ser cientista na história mundial.
+- Perfumista e supervisora do palácio que destilava essências de flores e outros materiais aromáticos, filtrava-os, adicionava água e os retornava ao alambique várias vezes até obter exatamente o que desejava. Esta é também a primeira referência conhecida ao processo de destilação e o primeiro registro de um alambique.
+- Tapputi também trabalhava com tinturas, extração de fragrâncias e enfleurage a frio. Ela escreveu o primeiro tratado sobre a fabricação de perfumes, mas este texto de química encontra-se perdido.
+
+
 ### Theano
 
 - **500 AEC**: Theano era uma filósofa pitagórica.
